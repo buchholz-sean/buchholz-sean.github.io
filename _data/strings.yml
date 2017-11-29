@@ -11,7 +11,7 @@
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
-pages:                 Quick Links
+pages:                 Pages
 posts:                 Server-Side Blog
 about:                 About
 related_posts:         Related Posts
@@ -31,12 +31,13 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Keep reading <!--post_title-->
 
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+    (ಥ﹏ಥ) 
+    We've misplaced something.
     <!--home_link--> to try finding it again.
   home_link:           Head back home
 

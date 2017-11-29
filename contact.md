@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Contact
-menu: true
 ---
-## Contact Info
+Drop me a line...
+{:.lead}

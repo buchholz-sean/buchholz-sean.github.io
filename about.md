@@ -4,13 +4,12 @@
 layout: about
 
 # The title of the page.
-title: About
+title: My Story
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Sean Buchholz, web designer and developer located in Maryland.
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -19,8 +18,6 @@ hide_description: true
 menu: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Raised in the Midwest, Sean became interested in web design in the late 1990s when his family got their first home computer (a Gateway with a 10GB HDD and processor speed measured in MHz). Since then, his interest has waxed and waned, but really reignited some time around 2011 when Responsive Web Design was starting to become an industry buzzword.
 
-Open `about.md` to edit this text.
+Beyond web design, he loves all kinds of art and performance. He draws, paints, and has played guitar for nearly two decades. His presence is tolerated by his wife, son, and three remarkably obnoxious cats.
