@@ -4,11 +4,6 @@ title: Progress Check 1
 description: My progress with WD6 so far
 ---
 
----
-layout: post
-title: Week 1 Research Findings
----
-
 Git Feature Branching
 {:.lead}
 
