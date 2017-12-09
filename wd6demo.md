@@ -17,4 +17,11 @@ What is MEAN?
 
 MEAN is a server-side software development stack comprising _MongoDB, Express.js, AngularJS, and Node.js_.
 
-_Videos coming soon!_
+Video Screen Casts
+{:.lead}
+
+[Week 1](https://youtu.be/P56LQUZkw6s)
+
+[Week 2](https://youtu.be/cCTTKEP4wxs)
+
+[Week 3](https://youtu.be/AibHdM941JA)
