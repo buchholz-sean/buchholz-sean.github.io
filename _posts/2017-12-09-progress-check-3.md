@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Progress Check 2
-description: WD6 Week 2 update
+title: Progress Check 3
+description: WD6 Week 3 update
 ---
 
 Agile Life Cycle
