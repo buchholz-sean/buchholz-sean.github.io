@@ -13,6 +13,8 @@ The Speculate phase is the point at which the development team begins to flesh o
 
 ## Explore & Adapt
 
-The Explore phase of an Agile project is when initial product deliveries begin to take place. During this step, team members develop alternative solutions to the problems and user stories discovered in the earlier phases. Likewise, the Adapt phase is the time during which the team takes feedback from the client and begins to implement that feedback into the deliverables as well. 
+The Explore phase of an Agile project is when initial product deliveries begin to take place. During this step, team members develop alternative solutions to the problems and user stories discovered in the earlier phases. Likewise, the Adapt phase is the time during which the team takes feedback from the client and begins to implement that feedback into the deliverables as well.
 
 ## Adapt & Close
+
+The final phase, following the Explore/Adapt cycle, is the Close phase. In this phase of the APM life cycle, team members review all of the project deliverables for suitability before final turnover to the client. Additionally, after the project is finished, team members review performance to uncover challenges and pain points that can help inform and improve overall performance in future projects. This can be a great time to reflect on individual team members strengths and weaknesses, and to perform individual and team-wide SWOT assessments.
